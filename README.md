@@ -118,10 +118,4 @@ The project relies on standard data analysis libraries such as:
 
 ## Author
 
-Abd
-
----
-
-## License
-
-This project is intended for academic and demonstration purposes only.
+ABDAMH
