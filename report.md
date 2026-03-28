@@ -1,4 +1,4 @@
-# Titanic Data Analysis — Capstone Report
+# Titanic Data Analysis - Final Report
 
 ---
 
