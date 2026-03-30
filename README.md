@@ -14,15 +14,14 @@ The objective is to analyze patterns influencing passenger survival and produce 
 my-capstone/
 ├── data/
 │   ├── raw/              # Original dataset
-│   ├── cleaned/          # Cleaned dataset (Phase 1)
-│   └── featured/         # Feature-engineered dataset (Phase 2)
+│   ├── cleaned/          # Cleaned dataset
 ├── notebooks/
 │   ├── 01_cleaning.ipynb # Data cleaning and preprocessing
 │   ├── 02_features.ipynb # Feature engineering
 │   └── 03_eda.ipynb      # Exploratory data analysis
 ├── reports/
 │   └── report.md         # Final written report
-├── requirements.txt      # Project dependencies
+├── requirements.txt      # Project Requirements
 ```
 
 ---
